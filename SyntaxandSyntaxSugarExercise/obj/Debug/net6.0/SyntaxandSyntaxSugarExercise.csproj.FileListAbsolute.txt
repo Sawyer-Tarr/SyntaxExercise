@@ -1,0 +1,15 @@
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\bin\Debug\net6.0\SyntaxandSyntaxSugarExercise.exe
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\bin\Debug\net6.0\SyntaxandSyntaxSugarExercise.deps.json
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\bin\Debug\net6.0\SyntaxandSyntaxSugarExercise.runtimeconfig.json
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\bin\Debug\net6.0\SyntaxandSyntaxSugarExercise.dll
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\bin\Debug\net6.0\SyntaxandSyntaxSugarExercise.pdb
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.dll
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\refint\SyntaxandSyntaxSugarExercise.dll
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.pdb
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.genruntimeconfig.cache
+C:\Users\sawye\OneDrive\Desktop\Repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\ref\SyntaxandSyntaxSugarExercise.dll
